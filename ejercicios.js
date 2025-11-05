@@ -14,11 +14,11 @@
 function miInformacion() {
   // TODO: Declara las variables nombre, edad y carrera
   // Ejemplo: const nombre = "Juan";
-  
-  const nombre = "";
-  const edad = 0;
-  const carrera = "";
-  
+
+  const nombre = "Josue Poot";
+  const edad = 17;
+  const carrera = "TSU";
+
   return { nombre, edad, carrera };
 }
 
@@ -30,12 +30,12 @@ function miInformacion() {
  */
 function operacionesBasicas(a, b) {
   // TODO: Calcula suma, resta, multiplicaciÃ³n y divisiÃ³n de a y b
-  
+
   const suma = 0;
   const resta = 0;
   const multiplicacion = 0;
   const division = 0;
-  
+
   return { suma, resta, multiplicacion, division };
 }
 
@@ -314,5 +314,5 @@ module.exports = {
   sumaMatriz,
   obtenerFila,
   obtenerColumna,
-  transponer
+  transponer,
 };
