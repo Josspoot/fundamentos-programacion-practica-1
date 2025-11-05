@@ -24,17 +24,17 @@ function miInformacion() {
 
 /**
  * Ejercicio 1.2: Operaciones aritmÃ©ticas bÃ¡sicas (3 puntos)
- * @param {7} a - Primer nÃºmero
- * @param {7} b - Segundo nÃºmero
+ * @param {number} a - Primer nÃºmero
+ * @param {number} b - Segundo nÃºmero
  * @returns {Object} - Objeto con suma, resta, multiplicaciÃ³n y divisiÃ³n
  */
 function operacionesBasicas(a, b) {
   // TODO: Calcula suma, resta, multiplicaciÃ³n y divisiÃ³n de a y b
 
-  const suma = 0;
-  const resta = 0;
-  const multiplicacion = 0;
-  const division = 0;
+  const suma = a + b;
+  const resta = a - b;
+  const multiplicacion = a * b;
+  const division = a / b;
 
   return { suma, resta, multiplicacion, division };
 }
