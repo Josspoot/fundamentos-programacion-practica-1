@@ -24,8 +24,8 @@ function miInformacion() {
 
 /**
  * Ejercicio 1.2: Operaciones aritmÃ©ticas bÃ¡sicas (3 puntos)
- * @param {number} a - Primer nÃºmero
- * @param {number} b - Segundo nÃºmero
+ * @param {7} a - Primer nÃºmero
+ * @param {7} b - Segundo nÃºmero
  * @returns {Object} - Objeto con suma, resta, multiplicaciÃ³n y divisiÃ³n
  */
 function operacionesBasicas(a, b) {
