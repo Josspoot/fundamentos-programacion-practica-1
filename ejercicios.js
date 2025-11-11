@@ -1,6 +1,6 @@
 // FUNDAMENTOS DE PROGRAMACIÃ“N - PRÃCTICA
-// Nombre del estudiante: _________________
-// Fecha: _________________
+// Nombre del estudiante: Josue Enmanuel Poot Mateo
+// Fecha: 10/11/2025
 
 // ============================================
 // SECCIÃ“N 1: VARIABLES Y TIPOS DE DATOS (10 puntos)
@@ -14,11 +14,11 @@
 function miInformacion() {
   // TODO: Declara las variables nombre, edad y carrera
   // Ejemplo: const nombre = "Juan";
-  
-  const nombre = "";
-  const edad = 0;
-  const carrera = "";
-  
+
+  const nombre = "Josue Enmanuel Poot Matep";
+  const edad = 17;
+  const carrera = "Desarrollo de software";
+
   return { nombre, edad, carrera };
 }
 
@@ -30,12 +30,12 @@ function miInformacion() {
  */
 function operacionesBasicas(a, b) {
   // TODO: Calcula suma, resta, multiplicaciÃ³n y divisiÃ³n de a y b
-  
+
   const suma = 0;
   const resta = 0;
   const multiplicacion = 0;
   const division = 0;
-  
+
   return { suma, resta, multiplicacion, division };
 }
 
@@ -314,5 +314,5 @@ module.exports = {
   sumaMatriz,
   obtenerFila,
   obtenerColumna,
-  transponer
+  transponer,
 };
